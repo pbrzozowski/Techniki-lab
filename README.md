@@ -26,3 +26,6 @@ Matematyka:
 $$ \int f(x)=0 $$
 
 
+*text* 
+**text** 
+``text`` 
