@@ -26,5 +26,3 @@ Matematyka:
 $$ \int f(x)=0 $$
 
 
-:raw-math:`$$ \frac{s}{\sqrt{N}} $$`
-  
