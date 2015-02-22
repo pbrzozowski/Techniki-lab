@@ -1,9 +1,13 @@
 # Techniki-lab
 Techniki internetowe lab, projekt na zaliczenie
-Tabelka 1:
+Tabelka 1
+
 |   |   |   |   |
 |---|---|---|---|
 |   |   |   |   |
+
+Tabelka 2
+
 
 | Tabela 2  |            |   |
 |----------|:-------------:|------:|
@@ -18,5 +22,6 @@ Tabelka w HTML:
 </table>
 
 Matematyka:
+
 $$ \int f(x)=0 $$
   
