@@ -5,9 +5,9 @@ Tabelka 1:
 |---|---|---|---|
 |   |   |   |   |
 
-| Tables   |      Are      |  Cool |
+| Tabla   |      Are      |  Cool |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| 1 |  left-aligned | 00 |
+| 2 |    centered   | 00 |
+| 3 | right-aligned | 00 |
     
