@@ -5,9 +5,9 @@ Tabelka 1:
 |---|---|---|---|
 |   |   |   |   |
 
-| Tabla   |      Are      |  Cool |
+| Tabla   |            |  Cool |
 |----------|:-------------:|------:|
-| 1 |  left-aligned | 00 |
-| 2 |    centered   | 00 |
-| 3 | right-aligned | 00 |
+| 1 |   | 00 |
+| 2 |   | 00 |
+| 3 |   | 00 |
     
