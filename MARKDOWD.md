@@ -1,13 +1,13 @@
-#Notacja MARKDOWN (H1)
+#Notacja MARKDOWN H1  👀
 
 ᨕ ௌ 🔪 📯💜    💼
 
-## Techniki Internetowe (H2)
+## Techniki Internetowe H2 🚁
 **Markdown**- język znaczników przeznaczony do formatowania tekstu.
 
-###Zadania na labolatoria (H3)
+###Zadania na labolatoria H3 💘
 
-####Czcionki
+####Czcionki  ✂
 Kursywa- nalezy uzyc \_tekst\_ lub \*tekst\*.
 
 > _Tekst napisany kursywą._ *I drugi sposob na kursywę.*
@@ -29,7 +29,7 @@ Mozemy tez dodać tło do tekstu, po przez uzycie \`\`tekst\`\`
 
 ______
 
-####Listy
+####Listy 💰
 1._Listy numerowane:_
 
 1. **Terminy zjazdow:**
@@ -58,7 +58,7 @@ ______
   - To juz ostatni punkt.
 
 **********  
-####Linki
+####Linki 💍
 [Prosty link](https://www.google.com)
 
 [Prosty link z tytułem.](https://www.google.com "Google's Homepage")
@@ -69,7 +69,7 @@ Nie trzeba podawać linku od razu, mozna sie do niego odwołać [link] albo [1]
 [link]: http://www.google.pl
 
 ---------
-####Tabele
+####Tabele 💤
 | Miesiące  | dni    | dni   | dni   |
 | --------- |:------:| :----:| :----:|
 | Luty      | 21/22  | 28/01 |       |
@@ -78,7 +78,7 @@ Nie trzeba podawać linku od razu, mozna sie do niego odwołać [link] albo [1]
 | Maj       | 09/10  | 16/17 | 30/31 |
 
 *********
-####Obrazki
+####Obrazki 📷
 Here's our logo (hover to see the title text):
 
 Inline-style:
@@ -89,7 +89,7 @@ Reference-style:
 
 [logo]: http://b2.pinger.pl/bae2ced295dccf7e66fe6612cc07dab7/avatar.jpg "Logo Title Text 2"
 
-####Cytat
+####Cytat 🎀
 A na koniec, cytat.
 >*"Najpiękniejszych chwil w zyciu nie zaplanujesz. One przyjdą same."*
 >
