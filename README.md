@@ -1,5 +1,5 @@
 # Techniki-lab
-Techniki internetowe lab, projekt na zaliczenie
+Techniki internetowe lab
 Tabelka 1
 
 |   |   |   |   |
