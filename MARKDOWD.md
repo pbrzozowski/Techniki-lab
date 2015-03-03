@@ -10,7 +10,7 @@
 ####Czcionki
 Kursywa- nalezy uzyc \_tekst\_ lub \*tekst\*.
 
-> _Tekst napisany kursywą._ * I drugi sposob na kursywę.*
+> _Tekst napisany kursywą._ *I drugi sposob na kursywę.*
 
 Pogrubienie- korzystamy z \_\_tekst\__ lub \*\*tekst\*\*
 
@@ -33,21 +33,21 @@ ______
 1. _Listy numerowane:_
 
  1. **Terminy zjazdow:**
-    1. Luty:
-        1. 21-22
-        2. 28
-      2. Marzec:
-        1. 1
-        2. 14-15
-        3. 21-22
-        4. 28-29
-      3. Kwiecień:
-        1. 18-19
-        2. 25-26
-    4. Maj:
-        1. 9-10
-        2. 16-17
-        3. 30-31  
+  1. Luty:
+    1. 21-22
+    2. 28
+  2. Marzec:
+    1. 1
+    2. 14-15
+    3. 21-22
+    4. 28-29
+  3. Kwiecień:
+    1. 18-19
+    2. 25-26
+  4. Maj:
+    1. 9-10
+    2. 16-17
+    3. 30-31  
 2. _Listy punktowane:_
 
   * Pounkt kropkowany robimy uzywając \*, \- lub \+
@@ -92,4 +92,5 @@ Reference-style:
 ####Cytat
 A na koniec, cytat.
 >*"Najpiękniejszych chwil w zyciu nie zaplanujesz. One przyjdą same."*
+>
 >Phil Bossman
