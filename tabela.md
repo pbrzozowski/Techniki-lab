@@ -8,8 +8,8 @@
 | Nagłowek H4    | ++++lub ======H5 | ####     |
 |kursywa         | \_tekst\_     |\*tekst\*  \_tekst\_|
 |pogrubienie     | \*\*tekst\**   |\*\*tekst\** |
-|Przekreślenie   |               | \~~tekst\~~|
-|zacienienie     | \+test\+      | \``tekst\`` |
+|Przekreślenie   |               | \~\~tekst\~~|
+|zacienienie     | \+test\+      | \`\`tekst`` |
 |Lista numerowana|   . Jeden     | 1. Jeden |
 |Lista "kropkowana"| - Jeden     | - punkt (* lub +)|
 |Podlista numerowana|.. podpunkt(ile .. taki stopień)| ⟶ 1. podpunkt|
