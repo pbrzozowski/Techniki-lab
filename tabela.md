@@ -21,8 +21,9 @@
 
 ********************
 
-<html>
+<html lang="pl">
 <head>
+<meta charset="utf-8">
 </head>
 <body>
 <table border="1">
