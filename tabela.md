@@ -30,9 +30,9 @@
 <table border="1">
 <caption align="top">Tabelka porównująca notacje(html).
 <tr bgcolor="#CC66FF"><th>FUNKCJA <th> ASCII <th> MARKDOWN 
-<tr><th> Nagłowek H <td> ====== lub ==H <td>  brak 
-<tr><th> Nagłowek H1 <td> ----- lub ===H1 <td> #
-<tr><th> Nagłowek H2 <td> ~~~~~ lub ====H2 <td> ##
+<tr><td> Nagłowek H <td> ====== lub ==H <td>  brak 
+<tr><td> Nagłowek H1 <td> ----- lub ===H1 <td> #
+<tr><td> Nagłowek H2 <td> ~~~~~ lub ====H2 <td> ##
 <tr><td> Nagłówek H3 <td> ^^^^^ lub =====H3 <td> ###
 <tr><td> Nagłowek H4 <td> +++++ lub ======H4 <td> ####
 <tr><td> Kursywa <td> _tekst_ <td> *teskt* lub _tekst 
