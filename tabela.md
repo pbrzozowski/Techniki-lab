@@ -14,10 +14,11 @@
 |Lista "kropkowana"| - Jeden     | - punkt (* lub +)|
 |Podlista numerowana|.. podpunkt(ile .. taki stopień)| ⟶ 1. podpunkt|
 |Podlista "kropki"  |\* podpunkt(ile \*** taki stopień)| ⟶ - podpunkt(* lub +)|
-|Linki          |h.ttp://adres.pl[nazwa] |\[nazwa](www.adres.pl)|
-|Link z "opisem"|        |\[nazwa](www.adres.pl"opis")|
-|Link "przypis"|            |teskt\[1]  \[1]:www.adres.pl|
-|Obrazek|                       |\!\[alt text](https://adres.pl "Tytuł,nazwa")
+|Linki          |http://adres.pl[nazwa] |\[nazwa](www.adres.pl)|
+|Link z "opisem"|http://strona.com [opis]  |\[nazwa](www.adres.pl"opis")|
+|Link "przypis"|brak |teskt\[1]  \[1]:www.adres.pl|
+|Obrazek| \image:obrazek.jpg[tekst] |\!\[alt text](https://adres.pl "Tytuł,nazwa")|
+|Cytat|[quote, autor, tutuł]  |\>cytat|
 
 ********************
 
@@ -43,6 +44,10 @@
 <tr><td> Podlista numerowana <td> ..podpunkt (ile ... taki stopień) <td> [tab] 1. podpunkt
 <tr><td> Podlista punkty <td> * podpuntk (ile ** taki podpunkt) <td> [tab] - podpunkt (* lub +)
 <tr><td> Link <td> http://adres.pl [nazawa] <td> [nazwa](www.adres.pl)
+<tr><td> Link z opisem <td>http://strona.com [opis]  <td> [nazwa](www.adres.pl"opis")
+<tr><td> Link "przypis"<td>brak <td>teskt\[1]  \[1]:www.adres.pl
+<tr><td> Obrazek<td> \image:obrazek.jpg[tekst] <td>![alt text](https://adres.pl "Tytuł,nazwa")
+<tr><td> Cytat<td> [quote, autor, tutuł]  <td>>cytat<td>
 </table>
 </body>
 </html>
